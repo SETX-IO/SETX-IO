@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[image](JoyTick.png)
+Maya场景建模作品
+*游戏手柄*
+![JoyTick建模](JoyTick.png)
+
+*徽章*
+![Cat](Cat.png)
 <!--
 **SETX-IO/SETX-IO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
