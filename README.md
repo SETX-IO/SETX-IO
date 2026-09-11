@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Maya场景建模作品
+#### Maya场景建模作品
 *游戏手柄*
 ![JoyTick建模](JoyTick.png)
 
